@@ -16,6 +16,7 @@ boolean => true/false
 bigInt 
 null => standalone value 
 undefined => undefined like let state; so this is not null it will be undefined 
+NaN => not a number
 
 symbol =>unique we will see in detail further 
 object
